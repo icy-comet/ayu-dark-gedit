@@ -5,7 +5,7 @@
 	<_description>A dark theme for Gedit</_description>
 
 	<!-- Ayu-Dark colors -->
-	<color name="background" value="#0e1419"/>
+	<color name="background" value="#0A0E14"/>
 	<color name="foreground" value="#e5e1cf"/>
 	<color name="selection" value="#273747"/>
 	<color name="cursor" value="#f19618"/>
@@ -32,14 +32,14 @@
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
 	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
 	<style name="search-match" foreground="selection" background="yellow"/>
-    <style name="background-pattern" background="#0e1419"/>
+    <style name="background-pattern" background="#0A0E14"/>
 
 	<style name="def:function" foreground="green"/>
 	<style name="def:identifier" foreground="pink"/>
 	<style name="def:keyword" foreground="pink"/>
 	<style name="def:number" foreground="purple" />
 	<style name="def:boolean" foreground="purple"/>
-	<style name="def:string" foreground="yellow"/>
+	<style name="def:string" foreground="green"/>
 	<style name="def:special-char" foreground="pink"/>
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green"/>
