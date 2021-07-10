@@ -7,7 +7,7 @@
 	<!-- Ayu-Dark colors -->
 	<color name="background" value="#0A0E14"/>
 	<color name="foreground" value="#e5e1cf"/>
-	<color name="selection" value="#273747"/>
+	<color name="selection" value="#6994bf"/>
 	<color name="cursor" value="#f19618"/>
 	<color name="current-line" value="#1b2733"/>
 	<color name="comment" value="#626a73"/>
